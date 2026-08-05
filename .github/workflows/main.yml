@@ -3,7 +3,7 @@ name: GPU Price Tracker
 
 on:
   schedule:
-    - cron: '0 8 * * *' # Щодня о 08:00 UTC (11:00 за Києвом)
+    - cron: '0 6,18 * * *'  # О 9:00 ранку та 21:00 (9 вечора) за київським часом
   workflow_dispatch:
 
 jobs:
