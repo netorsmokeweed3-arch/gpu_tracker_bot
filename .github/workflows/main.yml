@@ -1,9 +1,10 @@
+
 name: GPU Price Tracker
 
 on:
   schedule:
-    - cron: '0 8 * * *' # Зберігає розклад щодня о 08:00 UTC (11:00 за Києвом)
-  workflow_dispatch: # Дозволяє запускати вручну з кнопки
+    - cron: '0 8 * * *' # Щодня о 08:00 UTC (11:00 за Києвом)
+  workflow_dispatch:
 
 jobs:
   run-tracker:
@@ -19,7 +20,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4
+          pip install requests beautifulsoup4 playwright
+          playwright install
 
       - name: Run price tracker script
         run: python gpu_tracker_bot.py
