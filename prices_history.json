@@ -8,16 +8,16 @@
         "max": 44162
     },
     "Gigabyte GeForce RTX 5060 TI AERO OC 16G": {
-        "min": 30010,
+        "min": 31231,
         "max": 44996
     },
     "Gigabyte GeForce RTX 5060 TI GAMING OC 16G": {
-        "min": 30010,
+        "min": 32240,
         "max": 44996
     },
     "Gigabyte GeForce RTX 5060 TI EAGLE MAX OC 16G": {
-        "min": 30010,
-        "max": 42326
+        "min": 32240,
+        "max": 44996
     },
     "Zotac GAMING GeForce RTX 5060 Ti 16GB Twin Edge OC White": {
         "min": 30604,
