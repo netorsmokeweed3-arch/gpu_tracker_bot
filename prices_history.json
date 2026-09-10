@@ -1,11 +1,11 @@
 {
     "Palit GeForce RTX 5060 Ti White OC": {
-        "min": 33172,
-        "max": 42777
+        "min": 34250,
+        "max": 43919
     },
     "Palit GeForce RTX 5060 Ti Infinity 3 OC": {
         "min": 34250,
-        "max": 43920
+        "max": 43919
     },
     "Gigabyte GeForce RTX 5060 TI AERO OC 16G": {
         "min": 34250,
@@ -24,7 +24,7 @@
         "max": 44999
     },
     "INNO3D GeForce RTX 5060 TI 16GB TWIN X2 OC WHITE": {
-        "min": 31033,
+        "min": 31047,
         "max": 44999
     },
     "MSI GeForce RTX 5060 TI 16G GAMING OC": {
