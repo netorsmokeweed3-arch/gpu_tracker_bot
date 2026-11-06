@@ -21,14 +21,14 @@
     },
     "Zotac GAMING GeForce RTX 5060 Ti 16GB Twin Edge OC White": {
         "min": 30349,
-        "max": 44999
+        "max": 43036
     },
     "INNO3D GeForce RTX 5060 TI 16GB TWIN X2 OC WHITE": {
         "min": 31499,
-        "max": 43506
+        "max": 44796
     },
     "MSI GeForce RTX 5060 TI 16G GAMING OC": {
-        "min": 31600,
+        "min": 30811,
         "max": 44996
     }
 }
